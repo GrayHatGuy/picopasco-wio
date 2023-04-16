@@ -1,5 +1,5 @@
 # picopasco-wio
-port of picopasco mixing to WIO added onboard sensors for sound, light, and accelerometer.
+port of picopasco mixing to WIO added onboard sensors for sound, light, and accelerometer. Reads 11 sensors and controls 4+ relays.
 
 ## Instructions:
 - Add SGP30 and SHT4X I2C sensors otherwise it will fail startup - blank terminal

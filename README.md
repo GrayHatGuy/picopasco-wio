@@ -8,9 +8,9 @@ full port of picopasco mixing to WIO added onboard sensors for sound, light, and
     - Compile and upload
  
 # OPEN ITEMS
-  [] - Verify relay/pump control pins
-  [] - device_type define in device.h for wio and pico sensor and pin differences
-  [] - UI from example in [lv_wiopasco](https://github.com/GrayHatGuy/lv_wiopasco)
-  [] - LoRAWAN networking
+      [] - Verify relay/pump control pins
+      [] - device_type define in device.h for wio and pico sensor and pin differences
+      [] - UI from example in [lv_wiopasco](https://github.com/GrayHatGuy/lv_wiopasco)
+      [] - LoRAWAN networking
 
 

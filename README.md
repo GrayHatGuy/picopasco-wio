@@ -6,7 +6,7 @@ port of [picopasco](https://github.com/GrayHatGuy/picopasco) mixing to WIO added
 - setup Arduino per [Wio How To](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/)
 - install libraries listed in #include 
 - compile and upload
-- view terminal output
+- view terminal [output](https://youtu.be/uyEobShH6yY)
  
 # OPEN ITEMS
 

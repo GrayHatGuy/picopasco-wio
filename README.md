@@ -7,7 +7,7 @@ port of [picopasco](https://github.com/GrayHatGuy/picopasco) mixing for WIO adde
 - install libraries listed in #include 
 - compile and upload
 - view terminal [output](https://youtu.be/uyEobShH6yY)
- 
+![Pin cross reference](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 # OPEN ITEMS
 
 * verify relay/pump control pins

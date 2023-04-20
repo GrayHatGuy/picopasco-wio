@@ -12,7 +12,6 @@ port of [picopasco](https://github.com/GrayHatGuy/picopasco) for WIO added onboa
 
 # OPEN ITEMS
 
-* verify relay/pump control pins
 * device_type define in device.h for wio and pico sensor and pin differences
 * UI from example in [lv_wiopasco](https://github.com/GrayHatGuy/lv_wiopasco)
 * LoRAWAN networking

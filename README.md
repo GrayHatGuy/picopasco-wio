@@ -12,7 +12,7 @@ port of [picopasco](https://github.com/GrayHatGuy/picopasco) for WIO added onboa
 - compile and upload
 - view terminal [output](https://youtu.be/uyEobShH6yY)
 
-### [functionsl prototype demo](https://youtu.be/b17KJY9SBbU)
+### [functional prototype demo](https://youtu.be/b17KJY9SBbU)
 
 # OPEN ITEMS
 

@@ -23,4 +23,4 @@ long term
 short term
 + Add pinout table
 + GPIO breakout
-* LoRAWAN networking
++ LoRAWAN networking

@@ -5,7 +5,7 @@ port of [picopasco](https://github.com/GrayHatGuy/picopasco) for WIO added onboa
 
 ## Instructions:
 
-- [parts demo - ](https://youtu.be/lR3D1bXBkDE)
+- [parts demo](https://youtu.be/lR3D1bXBkDE)
 - add SGP30 and SHT4X I2C sensors to J5 (power switch side) otherwise it will fail startup - blank terminal
 - Connect GPIO breakout.  
 - Connect jumper wires to pump relay and WIO breakout. (wires are color coded)

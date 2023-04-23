@@ -1,7 +1,7 @@
 # picopasco-wio
 port of [picopasco](https://github.com/GrayHatGuy/picopasco) for WIO added onboard sensors for sound, light, and accelerometer. reads 11 sensors and controls 4+ relays.
 
-### [!!!functional prototype demo!!!](https://youtu.be/b17KJY9SBbU)
+###[---->functional prototype demo<----](https://youtu.be/b17KJY9SBbU)
 
 ## Instructions:
 

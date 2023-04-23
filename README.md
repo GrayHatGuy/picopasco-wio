@@ -16,8 +16,11 @@ port of [picopasco](https://github.com/GrayHatGuy/picopasco) for WIO added onboa
 
 # OPEN ITEMS
 
+long term
 * universal code for mcu device type header
 * UI from example in [lv_wiopasco](https://github.com/GrayHatGuy/lv_wiopasco)
-* LoRAWAN networking
+
+short term
 + Add pinout table
 + GPIO breakout
+* LoRAWAN networking
